@@ -1,0 +1,22 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Environment variables and secrets
+.env
+
+# User database and uploaded documents
+data/
+docs/
+*.db
+*.sqlite3
+
+# Operating system files
+.DS_Store
+Thumbs.db
